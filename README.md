@@ -1,3 +1,4 @@
 # hello-world
 github tutorial 
-Hi there, I am onkar, trying to learn new stuff associated with data analytics.. 
+Hi Friends, 
+How are you today, I am onkar and i m learning the best use of github.. let us get going :) 
